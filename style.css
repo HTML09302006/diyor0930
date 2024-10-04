@@ -1,0 +1,294 @@
+body{
+    background-color: silver;
+}
+.head{
+    width: 100%;
+    height: 70px;
+    background-color: white;
+}
+.img{
+    width: 35px;
+    height: 35px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.img1{
+    width: 30px;
+    height: 30px;
+    margin-left: 1250px;
+    margin-top: -500px;
+}
+.img2{
+    width: 30px;
+    height: 30px;
+    margin-top: -500px;
+    margin-left: 15px;
+
+}
+.img3{
+    width: 30px;
+    height: 30px;
+    margin-top: -500px;
+    margin-left: 15px;
+}
+h1{
+    font-size: 20px;
+    color: cornflowerblue;
+    margin-top: -30px;
+    margin-left: 85px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    text-decoration: none;
+
+}
+li{
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-top: -35px;
+    color: #011a48;
+}
+.div{
+    margin-top: -30px;
+}
+a{
+    color: #011a48;
+
+    text-decoration: none;
+    display: inline-block;
+    font-family: Calibri sans-serif;
+}
+
+a:hover{
+    font-size: 20px;
+}
+.main1{
+    width: 90%;
+    height: 700px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.card1{
+    width: 55%;
+    height: 700px;
+    background-color: white;
+
+}
+.img4{
+     width: 100%;
+    height: 500px;
+}
+.card2{
+    width: 35%;
+    height: 180px;
+    background-color: white;
+    margin-left: 800px;
+    margin-top: -180px;
+}
+.card3{
+    width: 35%;
+    height: 500px;
+    background-color: white;
+    margin-left: 800px;
+    margin-top: -700px;
+
+}
+.main2{
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.card4{
+    width: 46%;
+    height: 400px;
+    background-color: white;
+}
+.card5{
+    width: 46%;
+    height: 400px;
+    background-color: white;
+    margin-top: -400px;
+    margin-left: 650px;
+}
+.img5{
+    width: 100%;
+    height: 250px;
+}
+.img6{
+    width: 50px;
+    height: 50px;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.but{
+    width: 200px;
+    height: 35px;
+    border-radius: 2px;
+    background-color: blue;
+    color: white;
+    margin-left: 120px;
+}
+.but1{
+    width: 200px;
+    height: 35px;
+    border-radius: 2px;
+    background-color: blue;
+    color: white;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.but2{
+    width: 200px;
+    height: 35px;
+    border-radius: 2px;
+    background-color: blue;
+    color: white;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.but3{
+    width: 200px;
+    height: 35px;
+    border-radius: 2px;
+    background-color: blue;
+    color: white;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+button:hover{
+    background-color: #034c03;
+    font-size: 15px;
+
+}
+.main3{
+    width: 100%;
+    height: 3000px;
+    background-color: white;
+    margin-top: -50px;
+}
+
+.div1{
+    width: 22%;
+    height: 450px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.div2{
+    width: 22%;
+    height: 450px;
+    margin-left: 20px;
+    margin-top: 30px;
+    background-color: silver;
+
+}
+
+.card6{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+.img7{
+    width: 100%;
+    height: 50%;
+}
+.div2{
+    width: 100px;
+    height: 20px;
+    background-color: yellow;
+    color: black;
+    border-radius: 3px;
+    margin-top: 5px;
+    margin-left: -2px;
+}
+.div3{
+    width: 15%;
+    height: 300px;
+    margin-left: 20px;
+}
+.card7{
+    display: flex;
+    flex-direction: row;
+}
+.img8{
+    width: 100%;
+    height: 70%;
+}
+.div4{
+    width: 31%;
+    height: 400px;
+    margin-left: 20px;
+
+}
+.img9{
+    width: 100%;
+    height: 60%;
+}
+.card8{
+    display: flex;
+    flex-direction: row;
+    margin-left: 35px;
+    margin-top: 150px;
+}
+.foot{
+    width: 100%;
+    height: 650px;
+    background-color: #f1f1f1;
+    display: flex;
+    flex-direction: row;
+}
+.div5{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.div6{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.div7{
+    display: flex;
+    flex-direction: row;
+    background-color: #f1f1f1;
+
+}
+.card9{
+    width: 95%;
+    height: 500px;
+    margin-top: 50px;
+    background-image: url("14.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.div8{
+    width: 98%;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.img10{
+    width: 100%;
+    height: 100%;
+
+}
+.div9{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+}
+body{
+    height: 2000px;
+    width:1500px;
+    margin: 0 auto;
+}
+.div10{
+    width: 350px;
+    height: 400px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: -400px;
+}
